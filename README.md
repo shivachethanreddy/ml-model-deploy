@@ -44,11 +44,11 @@
 ml_model_deploy/
 '''
 
-├── app.py # Flask application
-├── model.pkl # Trained ML model file
-├── requirements.txt # Python dependencies
-├── .github/workflows/ # GitHub Actions CI/CD scripts
-└── README.md # Project documentation
+1) app.py # Flask application
+2) model.pkl # Trained ML model file
+3) requirements.txt # Python dependencies
+4) .github/workflows/ # GitHub Actions CI/CD scripts
+5) README.md # Project documentation
 
 
 '''
